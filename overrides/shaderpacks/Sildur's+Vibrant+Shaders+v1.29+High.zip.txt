@@ -1,0 +1,8 @@
+#Thu Nov 18 21:46:29 CET 2021
+customStars=false
+shadowMapResolution=3072
+cloudsIT=10
+DoF_Strength=30
+polishedRefl=true
+MB_strength=0.008
+Depth_of_Field=true
